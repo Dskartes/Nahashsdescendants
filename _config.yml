@@ -1,0 +1,19 @@
+title: Nahash's Descendants
+description: "Research on Genesis, Mesopotamia, and ancient peoples."
+author: Dskartes
+language: en
+baseurl: "/NahashsDescendants"
+url: "https://dskartes.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - README.md
