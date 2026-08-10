@@ -45,6 +45,20 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
       <span class="card-info">PNG</span>
       <a class="card-btn" href="{{ '/maps/Inthebeginning.png' | relative_url }}" download>Download</a>
     </div>
+  <div class="card card-wide">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">Infographic</div>
+    </div>
+    <h3 class="card-title">Genesis Architecture of Creation.</h3>
+    <p class="card-desc">Genesis Decoded: From Ancient Myth to Modern Science.</p>
+    <img class="card-image" src="{{ '/maps/Genesis_Architecture_of_Creation.png' | relative_url }}" alt="Genesis Decoded: From Ancient Myth to Modern Science">
+    <div class="card-meta">
+      <span class="card-info">PNG</span>
+      <a class="card-btn" href="{{ '/maps/Genesis_Architecture_of_Creation.png' | relative_url }}" download>Download</a>
+    </div>
+  </div>
+</div>
   </div>
 <!--
   For the next map, copy the <div class="card card-wide"> block above (or drop
