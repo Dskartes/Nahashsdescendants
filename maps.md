@@ -58,6 +58,19 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
       <a class="card-btn" href="{{ '/maps/Genesis_Architecture_of_Creation.png' | relative_url }}" download>Download</a>
     </div>
   </div>
+  <div class="card card-wide">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">Mind map</div>
+    </div>
+    <h3 class="card-title">Seventh day</h3>
+    <p class="card-desc">A mind map historical and symbolic reinterpretation of Genesis, linking the biblical story with real processes of the Holocene.</p>
+    <img class="card-image" src="{{ '/maps/Seventh day holocene Mind Map.png' | relative_url }}" alt="Mind map: The green Sahara as the first garden of Eden">
+    <div class="card-meta">
+      <span class="card-info">PNG</span>
+      <a class="card-btn" href="{{ '/maps/Seventh day holocene Mind Map.png' | relative_url }}" download>Download</a>
+    </div>
+  </div>
 </div>
  
 <!--
