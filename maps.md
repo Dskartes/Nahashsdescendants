@@ -13,10 +13,10 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
     </div>
     <h3 class="card-title">Eons of the Universe</h3>
     <p class="card-desc">A mind map tracing the six eons — from the Big Bang through the Cenozoic — as a scientific-theory parallel to the days of creation.</p>
-    <img class="card-image" src="{{ '/maps/Eons_Mind_Map.png' | relative_url }}" alt="Mind map: Eons of the Universe, from the Big Bang to the Cenozoic era">
+    <img class="card-image" src="{{ '/maps/Eons Mind Map.png' | relative_url }}" alt="Mind map: Eons of the Universe, from the Big Bang to the Cenozoic era">
     <div class="card-meta">
       <span class="card-info">PNG</span>
-      <a class="card-btn" href="{{ '/maps/Eons_Mind_Map.png' | relative_url }}" download>Download</a>
+      <a class="card-btn" href="{{ '/maps/Eons Mind Map.png' | relative_url }}" download>Download</a>
     </div>
   </div>
 <div class="card card-wide">
