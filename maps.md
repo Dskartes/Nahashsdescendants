@@ -19,7 +19,19 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
       <a class="card-btn" href="{{ '/maps/Eons_Mind_Map.png' | relative_url }}" download>Download</a>
     </div>
   </div>
-
+<div class="card card-wide">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">Infographic</div>
+    </div>
+    <h3 class="card-title">The Six Eons: From Cosmic Chaos to Human Consciousness</h3>
+    <p class="card-desc">An illustrated timeline of the six eons — from the Big Bang's primordial chaos to the rise of human consciousness — pairing each stage with its counterpart in the six-day creation narrative.</p>
+    <img class="card-image" src="{{ '/maps/Evolution_From_Chaos_to_Consciousness.png' | relative_url }}" alt="Illustrated timeline: The Six Eons, from cosmic chaos to human consciousness">
+    <div class="card-meta">
+      <span class="card-info">PNG</span>
+      <a class="card-btn" href="{{ '/maps/Evolution_From_Chaos_to_Consciousness.png' | relative_url }}" download>Download</a>
+    </div>
+  </div>
 </div>
 
 <!--
