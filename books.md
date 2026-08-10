@@ -9,13 +9,13 @@ subtitle: "The complete books of the project. They'll be added here as they beco
   <div class="card">
     <div class="card-top">
       <div class="card-mark">✦</div>
-      <div class="card-tag soon">Coming soon</div>
+      <div class="card-tag">PDF</div>
     </div>
     <h3 class="card-title">In the Beginning of Genesis</h3>
     <p class="card-desc">The first book of the project, the starting point for the analysis of Genesis.</p>
     <div class="card-meta">
       <span class="card-info">PDF</span>
-      <span class="card-btn disabled">Download</span>
+      <a class="card-btn" href="{{ '/In the Beginning of Genesis.pdf' | relative_url | replace: ' ', '%20' }}" download>Download</a>
     </div>
   </div>
 
