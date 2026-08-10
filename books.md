@@ -15,7 +15,7 @@ subtitle: "The complete books of the project. They'll be added here as they beco
     <p class="card-desc">The first book of the project, the starting point for the analysis of Genesis.</p>
     <div class="card-meta">
       <span class="card-info">PDF</span>
-      <a class="card-btn" href="{{ '/In the Beginning of Genesis.pdf' | relative_url | replace: ' ', '%20' }}" download>Download</a>
+      <a class="card-btn" href="{{ 'books/In the Beginning of Genesis.pdf' | relative_url | replace: ' ', '%20' }}" download>Download</a>
     </div>
   </div>
 
