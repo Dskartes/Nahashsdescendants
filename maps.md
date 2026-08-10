@@ -59,7 +59,7 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
     </div>
   </div>
 </div>
-  </div>
+ 
 <!--
   For the next map, copy the <div class="card card-wide"> block above (or drop
   "card-wide" for a smaller card in the grid), paste it before the closing </div>
