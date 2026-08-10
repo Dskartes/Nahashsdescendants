@@ -28,13 +28,13 @@ subtitle: "Audio summaries of the project's books and publications, generated wi
       <div class="card-tag">Podcast</div>
     </div>
     <h3 class="card-title">Genesis 1 as Physics or Subversion</h3>
-    <p class="card-desc">Summary of Seventh day Holocene, linking the biblical story with real processes of the Holocene.</p>
+    <p class="card-desc">Summary of In the beginning of genesis, comparative analysis of the creation stories in Genesis.</p>
     <audio class="card-audio" controls preload="none">
       <source src="{{ '/podcast/Genesis_1_as_Physics_or_Subversion.mp3' | relative_url }}" type="audio/mpeg">
       Your browser does not support HTML5 audio.
     </audio>
     <div class="card-meta">
-      <span class="card-info">Based on: Seventh day Holocene</span>
+      <span class="card-info">Based on: In the beginning of genesis</span>
       <a class="card-btn" href="{{ '/podcast/Genesis_1_as_Physics_or_Subversion.mp3' | relative_url }}" download>Download</a>
     </div>
   </div>
