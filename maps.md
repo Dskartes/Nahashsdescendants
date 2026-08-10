@@ -33,7 +33,19 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
     </div>
   </div>
 </div>
-
+<div class="card card-wide">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">Mind map</div>
+    </div>
+    <h3 class="card-title">In the beginning</h3>
+    <p class="card-desc">A mind map of genesis analysis.</p>
+    <img class="card-image" src="{{ '/maps/Inthebeginning' | relative_url }}" alt="Mind map: In the beginning, A mind map of genesis analysis">
+    <div class="card-meta">
+      <span class="card-info">PNG</span>
+      <a class="card-btn" href="{{ '/maps/Inthebeginning.png' | relative_url }}" download>Download</a>
+    </div>
+  </div>
 <!--
   For the next map, copy the <div class="card card-wide"> block above (or drop
   "card-wide" for a smaller card in the grid), paste it before the closing </div>
