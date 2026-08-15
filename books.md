@@ -56,6 +56,18 @@ subtitle: "The complete books of the project. They'll be added here as they beco
       <a class="card-btn" href="{{ 'books/Eons.pdf' | relative_url | replace: ' ', '%20' }}" download>Download</a>
     </div>
   </div>
+   <div class="card">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">PDF</div>
+    </div>
+    <h3 class="card-title">The man made of clay</h3>
+    <p class="card-desc">A comparative journey through the myths of human creation</p>
+    <div class="card-meta">
+      <span class="card-info">PDF</span>
+      <a class="card-btn" href="{{ 'books/THE MAN MADE OF CLAY.pdf' | relative_url | replace: ' ', '%20' }}" download>Download</a>
+    </div>
+  </div>
 </div>
 
 <p class="page-note" style="margin-top:28px;">These three books currently exist in Word. Once they're converted to PDF and uploaded to the <code>books/</code> folder of the repository, the cards above will be updated with real download links.</p>
