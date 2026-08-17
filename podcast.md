@@ -66,7 +66,7 @@ subtitle: "Audio summaries of the project's books and publications, generated wi
       Your browser does not support HTML5 audio.
     </audio>
     <div class="card-meta">
-      <span class="card-info">Based on: Eons</span>
+      <span class="card-info">Based on: The man made of clay</span>
       <a class="card-btn" href="{{ '/podcast/How_Empires_Sculpted_Humanity_From_Mud.mp3' | relative_url }}" download>Download</a>
     </div>
   </div>
