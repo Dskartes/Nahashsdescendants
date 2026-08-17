@@ -54,6 +54,22 @@ subtitle: "Audio summaries of the project's books and publications, generated wi
       <a class="card-btn" href="{{ '/podcast/Genesis_as_an_Ancient_Mathematical_Ledger.mp3' | relative_url }}" download>Download</a>
     </div>
   </div>
+  <div class="card">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">Podcast</div>
+    </div>
+    <h3 class="card-title">How empires sculpted humanity from mud</h3>
+    <p class="card-desc">Myth of the human being created from clay through a comparative analysis of various ancient civilizations.</p>
+    <audio class="card-audio" controls preload="none">
+      <source src="{{ '/podcast/How_Empires_Sculpted_Humanity_From_Mud.mp3' | relative_url }}" type="audio/mpeg">
+      Your browser does not support HTML5 audio.
+    </audio>
+    <div class="card-meta">
+      <span class="card-info">Based on: Eons</span>
+      <a class="card-btn" href="{{ '/podcast/How_Empires_Sculpted_Humanity_From_Mud.mp3' | relative_url }}" download>Download</a>
+    </div>
+  </div>
 </div>
 
 <!--
