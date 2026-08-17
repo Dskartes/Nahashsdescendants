@@ -50,7 +50,7 @@ subtitle: "Audio summaries of the project's books and publications, generated wi
       Your browser does not support HTML5 audio.
     </audio>
     <div class="card-meta">
-      <span class="card-info">Based on: In the beginning of genesis</span>
+      <span class="card-info">Based on: Seventh day Holocene</span>
       <a class="card-btn" href="{{ '/podcast/Genesis_as_an_Ancient_Mathematical_Ledger.mp3' | relative_url }}" download>Download</a>
     </div>
   </div>
