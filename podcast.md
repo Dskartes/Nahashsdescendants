@@ -38,7 +38,22 @@ subtitle: "Audio summaries of the project's books and publications, generated wi
       <a class="card-btn" href="{{ '/podcast/Genesis_1_as_Physics_or_Subversion.mp3' | relative_url }}" download>Download</a>
     </div>
   </div>
-
+<div class="card">
+    <div class="card-top">
+      <div class="card-mark">✦</div>
+      <div class="card-tag">Podcast</div>
+    </div>
+    <h3 class="card-title">Genesis as an ancient mathematical ledger</h3>
+    <p class="card-desc">Historical and symbolic reinterpretation of Genesis, linking the biblical story with real processes of the Holocene.</p>
+    <audio class="card-audio" controls preload="none">
+      <source src="{{ '/podcast/Genesis_as_an_Ancient_Mathematical_Ledger.mp3' | relative_url }}" type="audio/mpeg">
+      Your browser does not support HTML5 audio.
+    </audio>
+    <div class="card-meta">
+      <span class="card-info">Based on: In the beginning of genesis</span>
+      <a class="card-btn" href="{{ '/podcast/Genesis_as_an_Ancient_Mathematical_Ledger.mp3' | relative_url }}" download>Download</a>
+    </div>
+  </div>
 </div>
 
 <!--
