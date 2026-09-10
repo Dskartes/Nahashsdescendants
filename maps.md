@@ -44,6 +44,7 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
       <span class="card-info">PNG</span>
       <a class="card-btn" href="{{ '/maps/Inthebeginning.png' | relative_url }}" download>Download</a>
     </div>
+  </div>
   <div class="card card-wide">
     <div class="card-top">
       <div class="card-mark">✦</div>
