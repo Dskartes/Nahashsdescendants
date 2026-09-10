@@ -32,7 +32,6 @@ subtitle: "Maps and diagrams related to the analysis of Genesis."
       <a class="card-btn" href="{{ '/maps/Evolution_From_Chaos_to_Consciousness.png' | relative_url }}" download>Download</a>
     </div>
   </div>
-</div>
 <div class="card card-wide">
     <div class="card-top">
       <div class="card-mark">✦</div>
